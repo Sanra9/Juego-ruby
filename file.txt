@@ -1,0 +1,4 @@
+Crear un segundo nombre para una variable método-alias
+Usado para definir una funcion-def
+Usado para terminar un método o ciclo-end
+Método para inicializar variables en una clase-initialize
